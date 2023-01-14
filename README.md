@@ -47,7 +47,7 @@ In this section, you will create a smart contract that defines KaseiCoin as an E
 
 8. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
 
-![](./Kasei ERC - 20 .png)
+![](./KaseiERC-20.png)
 
 #### Create the KaseiCoin Crowdsale Contract
 
