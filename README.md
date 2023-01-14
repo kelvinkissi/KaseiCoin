@@ -69,6 +69,8 @@ In this section, you will define the KaseiCoin crowdsale contract. To do so, com
 
 6. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
 
+![](./KaseiCrowdSalingContract.png)
+
 #### Create the KaseiCoin Deployer Contract
 
 
